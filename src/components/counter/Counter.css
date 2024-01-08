@@ -1,0 +1,22 @@
+Button{
+    font-size : 18px;
+    width:100px;
+    margin:10px;
+    padding:10px;
+    border-radius:30px;
+}
+
+.Count{
+    font-size: 100px;
+    padding: 20px;
+}
+
+.counterButton{ 
+    background-Color : aqua;
+    color:black;
+}
+
+.resetButton{ 
+    background-Color : rgb(76, 43, 226);
+    color:white;
+}
